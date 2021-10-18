@@ -2,7 +2,7 @@
 
 <br />
 
-#### I am computer engineer student. I am interested in frontend technologies and design.
+#### I am software engineer student. I am interested in frontend technologies and design.
 
 <br />
 
