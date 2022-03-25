@@ -6,7 +6,7 @@
 
 <br />
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - ⚡ Fun fact: I love movies, games, music.
 
 ### Connect with me:
